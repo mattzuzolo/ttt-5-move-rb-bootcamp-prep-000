@@ -16,8 +16,5 @@ end
 
 
 # #move method takes three arguements ——— board array, index and team (X or O). ***Default*** is X
-def move (board, index, team = "X")
-  
-    board [index] = team
-end
+
 
